@@ -8,8 +8,8 @@
 		"TuffetSpider_"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com"
+		"homepage": "https://github.com/TuffetSpider",
+		"sources": "https://github.com/TuffetSpider/restup"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/rest-up/icon.png",
