@@ -17,9 +17,6 @@
 	"entrypoints": {
 		"main": [
 			"net.tuffetspider.restup.RestUp"
-		],
-		"fabric-datagen": [
-			"net.tuffetspider.restup.RestUpDataGenerator"
 		]
 	},
 	"mixins": [
